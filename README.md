@@ -1,2 +1,21 @@
 # hello-world-comp3521
-For Assignment 6: Configuration Management Tool Review
+Assignment 6: Configuration Management Tool Review
+
+## Markdown Elements Practice
+normal
+**bold**
+*italic*
+> blockquote
+
+1. Ordered List
+
+- unordered list
+
+`code format`
+
+---
+
+
+
+
+
